@@ -7,8 +7,6 @@ This project applies both unsupervised and supervised machine learning technique
 1. **K-Means Clustering on Mall Customers Dataset:**
    - **Objective:** Segment customers based on their annual income and spending score using K-Means clustering.
    - **Distance Metric:** Manhattan distance is utilized for clustering, ensuring robust and meaningful customer segments.
-   
-   ![K-Means Clustering Visualization](path_to_kmeans_clustering_plot.png)
 
 2. **Classification Algorithms:**
    - **Logistic Regression, Decision Tree, Random Forest, and Naive Bayes:**
@@ -16,15 +14,12 @@ This project applies both unsupervised and supervised machine learning technique
    - **Performance Comparison:**
      - The models are evaluated based on accuracy, providing insights into the effectiveness of the clustering and the distinctness of the customer segments.
 
-   ![Classifier Accuracy Comparison](path_to_classifier_accuracy_plot.png)
 
 3. **Breast Cancer Dataset Analysis:**
    - **Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA):**
      - Both PCA and LDA are applied to the breast cancer dataset to reduce dimensionality and visualize the data in a lower-dimensional space.
    - **Component Analysis:**
      - The components that explain the maximum variance are identified, highlighting the most significant features for classification.
-
-   ![PCA and LDA Visualization](path_to_pca_lda_plot.png)
 
 ### Detailed Workflow:
 
@@ -53,13 +48,16 @@ This project applies both unsupervised and supervised machine learning technique
 ### Visual Examples:
 
 - **K-Means Clustering:** 
-  ![K-Means Clustering Visualization](path_to_kmeans_clustering_plot.png)
+<img width="713" alt="image" src="https://github.com/user-attachments/assets/7afbc5b2-d50e-4f99-a79d-494d01fd4fb8">
+
   
 - **Classifier Accuracy Comparison:** 
-  ![Classifier Accuracy Comparison](path_to_classifier_accuracy_plot.png)
+<img width="747" alt="image" src="https://github.com/user-attachments/assets/9ce6624f-49d7-40bc-853c-97203f816068">
+
   
 - **PCA and LDA Visualization:** 
-  ![PCA and LDA Visualization](path_to_pca_lda_plot.png)
+<img width="756" alt="image" src="https://github.com/user-attachments/assets/3a684956-5812-4022-92a7-39327367b3c0">
+
 
 ### Conclusion:
 
